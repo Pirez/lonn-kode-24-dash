@@ -1,4 +1,4 @@
-# Lønnskalkulator basert på Kode 24 2021 Lønnsstatistikk
+# Lønnskalkulator
 
 Sjekk ut hva du bør få i lønn her [Kode 24 Lønnskalkulator](https://loon-kode24-dash.herokuapp.com).
 
